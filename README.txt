@@ -27,7 +27,7 @@ lsoA-t05-RochaGutierrez-FierroOrtiz/
 ├── src/
 │   ├── lect_escr.h    (declaraciones y parámetros)
 │   ├── lect_escr.c    (implementación completa)
-│   ├──
+│   ├── principal.c    (ejecucion del programa)
 │
 └── docs/
     └── lsoA-t05-lsoA-t05-RochaGutierrez-FierroOrtiz.docx  (informe)
