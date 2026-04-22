@@ -25,8 +25,8 @@ lsoA-t05-RochaGutierrez-FierroOrtiz/
 ├── Makefile
 ├── README.txt
 ├── src/
-│   ├── lect_escr.h    (declaraciones y parámetros)
-│   ├── lect_escr.c    (implementación completa)
+│   ├── hilos.h    (declaraciones y parámetros)
+│   ├── hilos.c    (implementación completa)
 │   ├── principal.c    (ejecucion del programa)
 │
 └── docs/
